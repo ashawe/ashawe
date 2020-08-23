@@ -1,0 +1,98 @@
+### Hi there, I'm AshAwe - aka [Harsh Saglani][website] 👋
+
+[![Website](https://img.shields.io/website?label=harshsaglani.me&style=for-the-badge&url=http%3A%2F%2Fharshsaglani.me)](https://harshsaglani.me)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hsaglani?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fashawe&screen_name=hsaglani)
+
+## I'm a Full-Time Open-Sourcerer & Aspiring Pentester!
+
+- 🔭 I’m currently working on [my Personal Website][website]!
+- 🌱 I’m currently learning react
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar and badminton
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31uxqsjmw4edk4pvhbeyg3iyv3re)
+
+### Connect with me:
+
+[<img align="left" alt="harshsaglani.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ashstudios | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="hsaglani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="hsaglani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="beingawesomeharsh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website-repo]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][ctf-2020]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website-repo]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][ctf-2020]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website-repo]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react-repo]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][ctf-2020]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][ctf-2020]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website-repo]
+[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][safana]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+
+<br />
+<br />
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...][youtube]
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+<!-- ➡️ [more blog posts...](http://harshsaglani.me/blog) -->
+
+---
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <a href="https://github.com/ashawe/github-readme-stats">
+    <img align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api?username=ashawe&show_icons=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/ashawe/github-readme-stats">
+    <img align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api/top-langs/?username=ashawe&layout=compact&hide_border=true" />
+  </a>
+
+</details>
+
+[website]: http://harshsaglani.me
+[twitter]: https://twitter.com/ashawe
+[youtube]: https://youtube.com/ashstudios
+[instagram]: https://instagram.com/beingawesomeharsh
+[linkedin]: https://linkedin.com/in/hsaglani
+[react-repo]: https://github.com/ashawe/learning-react/
+[ctf-2020]: https://github.com/ashawe/CTF-Website-Template-2020
+[github]: https://github.com/ashawe
+[terminal]: https://github.com/ashawe/searchViaTerminal
+[safana]: https://github.com/ashawe/safana
+[website-repo]: https://github.com/ashawe/PersonalWebsite
