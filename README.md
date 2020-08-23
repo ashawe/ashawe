@@ -65,6 +65,7 @@
 - [Why everyone should cooldown this lockdown?](https://dev.to/ashawe/why-everyone-should-cooldown-this-lockdown-4c5b)
 - [Make gradle dependencies to show up on github](https://dev.to/ashawe/make-gradle-dependencies-to-show-up-on-github-dn3)
 - [Custom Linux Command](https://dev.to/ashawe/custom-linux-command-2m65)
+- [Today I Learned!?](https://dev.to/ashawe/today-i-learned-4l79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more blog posts...](http://harshsaglani.me/blog) -->
