@@ -1,6 +1,6 @@
 ### Hi there, I'm AshAwe - aka [Harsh Saglani][website] 👋
 
-[![Website](https://img.shields.io/website?label=harshsaglani.me&style=for-the-badge&url=http%3A%2F%2Fharshsaglani.me)](https://harshsaglani.me)
+[![Website](https://img.shields.io/website?label=harshsaglani.me&style=for-the-badge&url=http%3A%2F%2Fharshsaglani.me)](http://harshsaglani.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hsaglani?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fashawe&screen_name=hsaglani)
 
 ## I'm a Full-Time Open-Sourcerer & Aspiring Pentester!
@@ -74,11 +74,8 @@
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 </details>
 
 <details>
