@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar and badminton
+- ⚡ Fun fact: I love to draw, play guitar and badminton
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.ashawe.vercel.app/api/spotify-playing" alt="ashawe's Spotify Playing" width="350" />](https://open.spotify.com/user/31uxqsjmw4edk4pvhbeyg3iyv3re)
