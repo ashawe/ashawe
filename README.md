@@ -74,9 +74,11 @@
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
-  <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//novatorem/novatorem/issues/2) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
-  <!--END_SECTION:activity-->
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 </details>
 
 <details>
