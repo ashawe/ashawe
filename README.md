@@ -76,11 +76,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com//jamesgeorge007/github-activity-readme/pull/20) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. ❗️ Opened issue [#2](https://github.com//novatorem/novatorem/issues/2) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
-3. ❗️ Opened issue [#4617](https://github.com//timburgan/timburgan/issues/4617) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-4. ❗️ Opened issue [#935](https://github.com//JonathanGin52/JonathanGin52/issues/935) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-5. ❗️ Opened issue [#218](https://github.com//benjaminsampica/benjaminsampica/issues/218) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
+1. 🗣 Commented on [#2](https://github.com//novatorem/novatorem/issues/2) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
+2. 💪 Opened PR [#20](https://github.com//jamesgeorge007/github-activity-readme/pull/20) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. ❗️ Opened issue [#2](https://github.com//novatorem/novatorem/issues/2) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
+4. ❗️ Opened issue [#4617](https://github.com//timburgan/timburgan/issues/4617) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+5. ❗️ Opened issue [#935](https://github.com//JonathanGin52/JonathanGin52/issues/935) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 </details>
