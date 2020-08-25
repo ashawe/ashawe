@@ -76,11 +76,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#945](https://github.com//JonathanGin52/JonathanGin52/issues/945) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#944](https://github.com//JonathanGin52/JonathanGin52/issues/944) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+1. 🎉 Merged PR [#1](https://github.com//ashawe/novatorem/pull/1) in [ashawe/novatorem](https://github.com//ashawe/novatorem)
+2. 💪 Opened PR [#1](https://github.com//ashawe/novatorem/pull/1) in [ashawe/novatorem](https://github.com//ashawe/novatorem)
 3. 🗣 Commented on [#2](https://github.com//novatorem/novatorem/issues/2) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
-4. 💪 Opened PR [#20](https://github.com//jamesgeorge007/github-activity-readme/pull/20) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. ❗️ Opened issue [#2](https://github.com//novatorem/novatorem/issues/2) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
+4. 🎉 Merged PR [#1](https://github.com//ashawe/ashawe/pull/1) in [ashawe/ashawe](https://github.com//ashawe/ashawe)
+5. 💪 Opened PR [#1](https://github.com//ashawe/ashawe/pull/1) in [ashawe/ashawe](https://github.com//ashawe/ashawe)
 <!--END_SECTION:activity-->
 
 </details>
