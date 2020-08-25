@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to draw, play guitar and badminton
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.ashawe.vercel.app/api/spotify-playing" alt="ashawe's Spotify Playing" width="350" />](https://open.spotify.com/user/31uxqsjmw4edk4pvhbeyg3iyv3re)
+[<img src="https://novatorem.ashawe.vercel.app/api/spotify" alt="ashawe's Spotify Playing" width="350" />](https://open.spotify.com/user/31uxqsjmw4edk4pvhbeyg3iyv3re)
 
 ### Connect with me:
 
