@@ -87,12 +87,14 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
+  <p align="left">
   <a href="https://github.com/ashawe/github-readme-stats">
-    <img align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api?username=ashawe&show_icons=true&hide_border=true" />
+    <img width="420" align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api?username=ashawe&show_icons=true&hide_border=true" />
   </a>
   <a href="https://github.com/ashawe/github-readme-stats">
     <img align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api/top-langs/?username=ashawe&layout=compact&hide_border=true" />
   </a>
+  </p>
 
 </details>
 
