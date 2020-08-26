@@ -76,11 +76,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com//ashawe/novatorem/pull/2) in [ashawe/novatorem](https://github.com//ashawe/novatorem)
-2. 🎉 Merged PR [#1](https://github.com//ashawe/novatorem/pull/1) in [ashawe/novatorem](https://github.com//ashawe/novatorem)
-3. 💪 Opened PR [#1](https://github.com//ashawe/novatorem/pull/1) in [ashawe/novatorem](https://github.com//ashawe/novatorem)
-4. 🗣 Commented on [#2](https://github.com//novatorem/novatorem/issues/2) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
-5. 🎉 Merged PR [#1](https://github.com//ashawe/ashawe/pull/1) in [ashawe/ashawe](https://github.com//ashawe/ashawe)
+1. 🎉 Merged PR [#2](https://github.com//ashawe/novatorem/pull/2) in [ashawe/novatorem](https://github.com//ashawe/novatorem)
+2. 💪 Opened PR [#2](https://github.com//ashawe/novatorem/pull/2) in [ashawe/novatorem](https://github.com//ashawe/novatorem)
+3. 🎉 Merged PR [#1](https://github.com//ashawe/novatorem/pull/1) in [ashawe/novatorem](https://github.com//ashawe/novatorem)
+4. 💪 Opened PR [#1](https://github.com//ashawe/novatorem/pull/1) in [ashawe/novatorem](https://github.com//ashawe/novatorem)
+5. 🗣 Commented on [#2](https://github.com//novatorem/novatorem/issues/2) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
 <!--END_SECTION:activity-->
 
 </details>
