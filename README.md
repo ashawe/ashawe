@@ -76,11 +76,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//ashawe/Word-Meanings-to-Markdown/issues/2) in [ashawe/Word-Meanings-to-Markdown](https://github.com//ashawe/Word-Meanings-to-Markdown)
-2. ❗️ Opened issue [#1](https://github.com//ashawe/Word-Meanings-to-Markdown/issues/1) in [ashawe/Word-Meanings-to-Markdown](https://github.com//ashawe/Word-Meanings-to-Markdown)
-3. 🎉 Merged PR [#2](https://github.com//ashawe/novatorem/pull/2) in [ashawe/novatorem](https://github.com//ashawe/novatorem)
-4. 💪 Opened PR [#2](https://github.com//ashawe/novatorem/pull/2) in [ashawe/novatorem](https://github.com//ashawe/novatorem)
-5. 🎉 Merged PR [#1](https://github.com//ashawe/novatorem/pull/1) in [ashawe/novatorem](https://github.com//ashawe/novatorem)
+1. 🗣 Commented on [#5](https://github.com//chaitanyarahalkar/Cyberfort-CTF-Website/issues/5) in [chaitanyarahalkar/Cyberfort-CTF-Website](https://github.com//chaitanyarahalkar/Cyberfort-CTF-Website)
+2. ❗️ Opened issue [#2](https://github.com//ashawe/Word-Meanings-to-Markdown/issues/2) in [ashawe/Word-Meanings-to-Markdown](https://github.com//ashawe/Word-Meanings-to-Markdown)
+3. ❗️ Opened issue [#1](https://github.com//ashawe/Word-Meanings-to-Markdown/issues/1) in [ashawe/Word-Meanings-to-Markdown](https://github.com//ashawe/Word-Meanings-to-Markdown)
+4. 🎉 Merged PR [#2](https://github.com//ashawe/novatorem/pull/2) in [ashawe/novatorem](https://github.com//ashawe/novatorem)
+5. 💪 Opened PR [#2](https://github.com//ashawe/novatorem/pull/2) in [ashawe/novatorem](https://github.com//ashawe/novatorem)
 <!--END_SECTION:activity-->
 
 </details>
