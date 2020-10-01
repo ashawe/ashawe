@@ -76,11 +76,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ashawe/Word-Meanings-to-Markdown/pull/3) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
-2. ❗️ Closed issue [#1](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/1) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
-3. 🗣 Commented on [#2](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/2) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
+1. ❗️ Opened issue [#2](https://github.com/ashawe/searchViaTerminal/issues/2) in [ashawe/searchViaTerminal](https://github.com/ashawe/searchViaTerminal)
+2. 🎉 Merged PR [#3](https://github.com/ashawe/Word-Meanings-to-Markdown/pull/3) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
+3. ❗️ Closed issue [#1](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/1) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
 4. 🗣 Commented on [#2](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/2) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
-5. 🎉 Merged PR [#4](https://github.com/ashawe/Word-Meanings-to-Markdown/pull/4) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
+5. 🗣 Commented on [#2](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/2) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
 <!--END_SECTION:activity-->
 
 </details>
