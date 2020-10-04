@@ -76,11 +76,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#541](https://github.com/appwrite/appwrite/issues/541) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🗣 Commented on [#859](https://github.com/appsmithorg/appsmith/issues/859) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
-3. 🗣 Commented on [#3](https://github.com/ashawe/searchViaTerminal/issues/3) in [ashawe/searchViaTerminal](https://github.com/ashawe/searchViaTerminal)
-4. ❗️ Reopened issue [#2](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/2) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
-5. 🗣 Commented on [#2](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/2) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
+1. 🎉 Merged PR [#3](https://github.com/ashawe/searchViaTerminal/pull/3) in [ashawe/searchViaTerminal](https://github.com/ashawe/searchViaTerminal)
+2. ❗️ Closed issue [#2](https://github.com/ashawe/searchViaTerminal/issues/2) in [ashawe/searchViaTerminal](https://github.com/ashawe/searchViaTerminal)
+3. 🗣 Commented on [#541](https://github.com/appwrite/appwrite/issues/541) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+4. 🗣 Commented on [#859](https://github.com/appsmithorg/appsmith/issues/859) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
+5. 🗣 Commented on [#3](https://github.com/ashawe/searchViaTerminal/issues/3) in [ashawe/searchViaTerminal](https://github.com/ashawe/searchViaTerminal)
 <!--END_SECTION:activity-->
 
 </details>
