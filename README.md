@@ -76,11 +76,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ashawe/Word-Meanings-to-Markdown/pull/7) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
-2. ❗️ Closed issue [#6](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/6) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
-3. 💪 Opened PR [#7](https://github.com/ashawe/Word-Meanings-to-Markdown/pull/7) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
-4. ❗️ Opened issue [#6](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/6) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
-5. 🗣 Commented on [#2](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/2) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
+1. 💪 Opened PR [#20](https://github.com/iamrohitsuthar/Quizller/pull/20) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
+2. ❌ Closed PR [#5](https://github.com/ashawe/Word-Meanings-to-Markdown/pull/5) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
+3. 🎉 Merged PR [#8](https://github.com/ashawe/Word-Meanings-to-Markdown/pull/8) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
+4. ❗️ Closed issue [#2](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/2) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
+5. 💪 Opened PR [#8](https://github.com/ashawe/Word-Meanings-to-Markdown/pull/8) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
 <!--END_SECTION:activity-->
 
 </details>
