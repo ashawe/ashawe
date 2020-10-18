@@ -76,11 +76,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/iamhrishikeshpadhye/iamhrishikeshpadhye.github.io/issues/4) in [iamhrishikeshpadhye/iamhrishikeshpadhye.github.io](https://github.com/iamhrishikeshpadhye/iamhrishikeshpadhye.github.io)
-2. 💪 Opened PR [#20](https://github.com/iamrohitsuthar/Quizller/pull/20) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
-3. ❌ Closed PR [#5](https://github.com/ashawe/Word-Meanings-to-Markdown/pull/5) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
-4. 🎉 Merged PR [#8](https://github.com/ashawe/Word-Meanings-to-Markdown/pull/8) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
-5. ❗️ Closed issue [#2](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/2) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
+1. ❗️ Opened issue [#5](https://github.com/ashawe/CTF-Website-Template-2020/issues/5) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
+2. ❗️ Opened issue [#4](https://github.com/iamhrishikeshpadhye/iamhrishikeshpadhye.github.io/issues/4) in [iamhrishikeshpadhye/iamhrishikeshpadhye.github.io](https://github.com/iamhrishikeshpadhye/iamhrishikeshpadhye.github.io)
+3. 💪 Opened PR [#20](https://github.com/iamrohitsuthar/Quizller/pull/20) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
+4. ❌ Closed PR [#5](https://github.com/ashawe/Word-Meanings-to-Markdown/pull/5) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
+5. 🎉 Merged PR [#8](https://github.com/ashawe/Word-Meanings-to-Markdown/pull/8) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
 <!--END_SECTION:activity-->
 
 </details>
