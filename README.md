@@ -76,11 +76,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/iamrohitsuthar/Quizller/issues/14) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
-2. 🗣 Commented on [#2](https://github.com/ashawe/searchViaTerminal/issues/2) in [ashawe/searchViaTerminal](https://github.com/ashawe/searchViaTerminal)
-3. 🗣 Commented on [#607](https://github.com/open-sauced/open-sauced/issues/607) in [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced)
-4. 🗣 Commented on [#5](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/5) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
-5. 🗣 Commented on [#5](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/5) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
+1. ❗️ Opened issue [#6](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/6) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
+2. 🗣 Commented on [#2](https://github.com/ashawe/Word-Meanings-to-Markdown/issues/2) in [ashawe/Word-Meanings-to-Markdown](https://github.com/ashawe/Word-Meanings-to-Markdown)
+3. 🗣 Commented on [#14](https://github.com/iamrohitsuthar/Quizller/issues/14) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
+4. 🗣 Commented on [#2](https://github.com/ashawe/searchViaTerminal/issues/2) in [ashawe/searchViaTerminal](https://github.com/ashawe/searchViaTerminal)
+5. 🗣 Commented on [#607](https://github.com/open-sauced/open-sauced/issues/607) in [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced)
 <!--END_SECTION:activity-->
 
 </details>
