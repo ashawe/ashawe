@@ -76,11 +76,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/iamrohitsuthar/Quizller/issues/21) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
-2. 💪 Opened PR [#21](https://github.com/iamrohitsuthar/Quizller/pull/21) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
-3. 🗣 Commented on [#13](https://github.com/iamrohitsuthar/Quizller/issues/13) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
-4. 🗣 Commented on [#6](https://github.com/ashawe/CTF-Website-Template-2020/issues/6) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
-5. 🗣 Commented on [#3](https://github.com/iamrohitsuthar/LiveChatServer/issues/3) in [iamrohitsuthar/LiveChatServer](https://github.com/iamrohitsuthar/LiveChatServer)
+1. 🗣 Commented on [#6](https://github.com/ashawe/CTF-Website-Template-2020/issues/6) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
+2. 🗣 Commented on [#21](https://github.com/iamrohitsuthar/Quizller/issues/21) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
+3. 💪 Opened PR [#21](https://github.com/iamrohitsuthar/Quizller/pull/21) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
+4. 🗣 Commented on [#13](https://github.com/iamrohitsuthar/Quizller/issues/13) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
+5. 🗣 Commented on [#6](https://github.com/ashawe/CTF-Website-Template-2020/issues/6) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
 <!--END_SECTION:activity-->
 
 </details>
