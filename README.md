@@ -76,11 +76,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/ashawe/CTF-Website-Template-2020/issues/7) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
-2. 🗣 Commented on [#7](https://github.com/ashawe/CTF-Website-Template-2020/issues/7) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
-3. 🗣 Commented on [#5](https://github.com/ashawe/CTF-Website-Template-2020/issues/5) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
-4. 🗣 Commented on [#6](https://github.com/ashawe/CTF-Website-Template-2020/issues/6) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
-5. 🗣 Commented on [#21](https://github.com/iamrohitsuthar/Quizller/issues/21) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
+1. ❗️ Opened issue [#8](https://github.com/ashawe/CTF-Website-Template-2020/issues/8) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
+2. 🎉 Merged PR [#7](https://github.com/ashawe/CTF-Website-Template-2020/pull/7) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
+3. ❗️ Closed issue [#5](https://github.com/ashawe/CTF-Website-Template-2020/issues/5) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
+4. 🗣 Commented on [#7](https://github.com/ashawe/CTF-Website-Template-2020/issues/7) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
+5. 🗣 Commented on [#7](https://github.com/ashawe/CTF-Website-Template-2020/issues/7) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
 <!--END_SECTION:activity-->
 
 </details>
