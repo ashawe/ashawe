@@ -76,10 +76,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/ashawe/CTF-Website-Template-2020/issues/8) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
-2. 🎉 Merged PR [#7](https://github.com/ashawe/CTF-Website-Template-2020/pull/7) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
-3. ❗️ Closed issue [#5](https://github.com/ashawe/CTF-Website-Template-2020/issues/5) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
-4. 🗣 Commented on [#7](https://github.com/ashawe/CTF-Website-Template-2020/issues/7) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
+1. ❗️ Opened issue [#1](https://github.com/iamrohitsuthar/iamrohitsuthar.github.io/issues/1) in [iamrohitsuthar/iamrohitsuthar.github.io](https://github.com/iamrohitsuthar/iamrohitsuthar.github.io)
+2. ❗️ Opened issue [#8](https://github.com/ashawe/CTF-Website-Template-2020/issues/8) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
+3. 🎉 Merged PR [#7](https://github.com/ashawe/CTF-Website-Template-2020/pull/7) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
+4. ❗️ Closed issue [#5](https://github.com/ashawe/CTF-Website-Template-2020/issues/5) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
 5. 🗣 Commented on [#7](https://github.com/ashawe/CTF-Website-Template-2020/issues/7) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
 <!--END_SECTION:activity-->
 
