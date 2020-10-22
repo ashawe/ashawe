@@ -77,10 +77,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/ashawe/CTF-Website-Template-2020/issues/7) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
-2. 🗣 Commented on [#5](https://github.com/ashawe/CTF-Website-Template-2020/issues/5) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
-3. 🗣 Commented on [#6](https://github.com/ashawe/CTF-Website-Template-2020/issues/6) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
-4. 🗣 Commented on [#21](https://github.com/iamrohitsuthar/Quizller/issues/21) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
-5. 💪 Opened PR [#21](https://github.com/iamrohitsuthar/Quizller/pull/21) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
+2. 🗣 Commented on [#7](https://github.com/ashawe/CTF-Website-Template-2020/issues/7) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
+3. 🗣 Commented on [#5](https://github.com/ashawe/CTF-Website-Template-2020/issues/5) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
+4. 🗣 Commented on [#6](https://github.com/ashawe/CTF-Website-Template-2020/issues/6) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
+5. 🗣 Commented on [#21](https://github.com/iamrohitsuthar/Quizller/issues/21) in [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller)
 <!--END_SECTION:activity-->
 
 </details>
