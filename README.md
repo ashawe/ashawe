@@ -76,11 +76,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/ashawe/Diceee/issues/3) in [ashawe/Diceee](https://github.com/ashawe/Diceee)
-2. ❗️ Opened issue [#2](https://github.com/ashawe/Diceee/issues/2) in [ashawe/Diceee](https://github.com/ashawe/Diceee)
-3. ❗️ Opened issue [#1](https://github.com/ashawe/Diceee/issues/1) in [ashawe/Diceee](https://github.com/ashawe/Diceee)
-4. ❗️ Closed issue [#8](https://github.com/ashawe/CTF-Website-Template-2020/issues/8) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
-5. 🎉 Merged PR [#9](https://github.com/ashawe/CTF-Website-Template-2020/pull/9) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
+1. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
+2. ❗️ Opened issue [#3](https://github.com/ashawe/Diceee/issues/3) in [ashawe/Diceee](https://github.com/ashawe/Diceee)
+3. ❗️ Opened issue [#2](https://github.com/ashawe/Diceee/issues/2) in [ashawe/Diceee](https://github.com/ashawe/Diceee)
+4. ❗️ Opened issue [#1](https://github.com/ashawe/Diceee/issues/1) in [ashawe/Diceee](https://github.com/ashawe/Diceee)
+5. ❗️ Closed issue [#8](https://github.com/ashawe/CTF-Website-Template-2020/issues/8) in [ashawe/CTF-Website-Template-2020](https://github.com/ashawe/CTF-Website-Template-2020)
 <!--END_SECTION:activity-->
 
 </details>
