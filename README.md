@@ -76,11 +76,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ashawe/Safana/pull/7) in [ashawe/Safana](https://github.com/ashawe/Safana)
+1. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
 2. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
-3. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
+3. 🎉 Merged PR [#7](https://github.com/ashawe/Safana/pull/7) in [ashawe/Safana](https://github.com/ashawe/Safana)
 4. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
-5. ❗️ Opened issue [#3](https://github.com/ashawe/Diceee/issues/3) in [ashawe/Diceee](https://github.com/ashawe/Diceee)
+5. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
 <!--END_SECTION:activity-->
 
 </details>
