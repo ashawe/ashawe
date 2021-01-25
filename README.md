@@ -76,11 +76,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/ashawe/Safana/issues/10) in [ashawe/Safana](https://github.com/ashawe/Safana)
-2. 🗣 Commented on [#10](https://github.com/ashawe/Safana/issues/10) in [ashawe/Safana](https://github.com/ashawe/Safana)
-3. ❗️ Closed issue [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
-4. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
-5. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
+1. ❌ Closed PR [#3](https://github.com/ashawe/PersonalWebsite/pull/3) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
+2. 🗣 Commented on [#3](https://github.com/ashawe/PersonalWebsite/issues/3) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
+3. ❗️ Closed issue [#10](https://github.com/ashawe/Safana/issues/10) in [ashawe/Safana](https://github.com/ashawe/Safana)
+4. 🗣 Commented on [#10](https://github.com/ashawe/Safana/issues/10) in [ashawe/Safana](https://github.com/ashawe/Safana)
+5. ❗️ Closed issue [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
 <!--END_SECTION:activity-->
 
 </details>
