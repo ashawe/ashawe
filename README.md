@@ -62,9 +62,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [7 tips to be more happy](https://medium.com/@ashawe/7-tips-to-be-more-happy-77136e8a404a?source=rss-43dc25b8f1d2------2)
+- [7 tips to be more happy](https://ashawe.medium.com/7-tips-to-be-more-happy-77136e8a404a?source=rss-43dc25b8f1d2------2)
 - [Why everyone should cooldown this lockdown?](https://dev.to/ashawe/why-everyone-should-cooldown-this-lockdown-4c5b)
-- [Why everyone should cooldown in this lockdown?](https://medium.com/@ashawe/why-everyone-should-cooldown-in-this-lockdown-1aa83b30498?source=rss-43dc25b8f1d2------2)
+- [Why everyone should cooldown in this lockdown?](https://ashawe.medium.com/why-everyone-should-cooldown-in-this-lockdown-1aa83b30498?source=rss-43dc25b8f1d2------2)
 - [Custom Linux Command](https://dev.to/ashawe/custom-linux-command-2m65)
 - [Today I Learned!?](https://dev.to/ashawe/today-i-learned-4l79)
 <!-- BLOG-POST-LIST:END -->
