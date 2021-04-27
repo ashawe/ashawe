@@ -77,7 +77,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ashawe/PersonalWebsite/pull/4) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
+1. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
 2. ❌ Closed PR [#3](https://github.com/ashawe/PersonalWebsite/pull/3) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
 3. 🗣 Commented on [#3](https://github.com/ashawe/PersonalWebsite/issues/3) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
 4. ❗️ Closed issue [#10](https://github.com/ashawe/Safana/issues/10) in [ashawe/Safana](https://github.com/ashawe/Safana)
