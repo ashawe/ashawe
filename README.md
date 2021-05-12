@@ -77,8 +77,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
-2. ❌ Closed PR [#3](https://github.com/ashawe/PersonalWebsite/pull/3) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
+1. 💪 Opened PR [#14](https://github.com/abizerlokhandwala/Cowin-Notification-Service/pull/14) in [abizerlokhandwala/Cowin-Notification-Service](https://github.com/abizerlokhandwala/Cowin-Notification-Service)
+2. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
 3. 🗣 Commented on [#3](https://github.com/ashawe/PersonalWebsite/issues/3) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
 4. ❗️ Closed issue [#10](https://github.com/ashawe/Safana/issues/10) in [ashawe/Safana](https://github.com/ashawe/Safana)
 5. 🗣 Commented on [#10](https://github.com/ashawe/Safana/issues/10) in [ashawe/Safana](https://github.com/ashawe/Safana)
