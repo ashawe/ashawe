@@ -77,11 +77,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4065](https://github.com/education/GitHubGraduation-2021/issues/4065) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-2. 🗣 Commented on [#14](https://github.com/abizerlokhandwala/Cowin-Notification-Service/issues/14) in [abizerlokhandwala/Cowin-Notification-Service](https://github.com/abizerlokhandwala/Cowin-Notification-Service)
+1. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
+2. 🗣 Commented on [#4065](https://github.com/education/GitHubGraduation-2021/issues/4065) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
 3. 🗣 Commented on [#14](https://github.com/abizerlokhandwala/Cowin-Notification-Service/issues/14) in [abizerlokhandwala/Cowin-Notification-Service](https://github.com/abizerlokhandwala/Cowin-Notification-Service)
-4. 💪 Opened PR [#4065](https://github.com/education/GitHubGraduation-2021/pull/4065) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-5. 💪 Opened PR [#14](https://github.com/abizerlokhandwala/Cowin-Notification-Service/pull/14) in [abizerlokhandwala/Cowin-Notification-Service](https://github.com/abizerlokhandwala/Cowin-Notification-Service)
+4. 🗣 Commented on [#14](https://github.com/abizerlokhandwala/Cowin-Notification-Service/issues/14) in [abizerlokhandwala/Cowin-Notification-Service](https://github.com/abizerlokhandwala/Cowin-Notification-Service)
+5. 💪 Opened PR [#4065](https://github.com/education/GitHubGraduation-2021/pull/4065) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
 <!--END_SECTION:activity-->
 
 </details>
