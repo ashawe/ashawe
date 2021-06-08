@@ -77,11 +77,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
-2. 🗣 Commented on [#4065](https://github.com/education/GitHubGraduation-2021/issues/4065) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-3. 🗣 Commented on [#14](https://github.com/abizerlokhandwala/Cowin-Notification-Service/issues/14) in [abizerlokhandwala/Cowin-Notification-Service](https://github.com/abizerlokhandwala/Cowin-Notification-Service)
+1. ❗️ Opened issue [#2204](https://github.com/dangrossman/daterangepicker/issues/2204) in [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker)
+2. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
+3. 🗣 Commented on [#4065](https://github.com/education/GitHubGraduation-2021/issues/4065) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
 4. 🗣 Commented on [#14](https://github.com/abizerlokhandwala/Cowin-Notification-Service/issues/14) in [abizerlokhandwala/Cowin-Notification-Service](https://github.com/abizerlokhandwala/Cowin-Notification-Service)
-5. 💪 Opened PR [#4065](https://github.com/education/GitHubGraduation-2021/pull/4065) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+5. 🗣 Commented on [#14](https://github.com/abizerlokhandwala/Cowin-Notification-Service/issues/14) in [abizerlokhandwala/Cowin-Notification-Service](https://github.com/abizerlokhandwala/Cowin-Notification-Service)
 <!--END_SECTION:activity-->
 
 </details>
