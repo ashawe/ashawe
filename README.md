@@ -77,11 +77,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#56](https://github.com/alfg/guildbit/issues/56) in [alfg/guildbit](https://github.com/alfg/guildbit)
-2. 🗣 Commented on [#13](https://github.com/team-abnormals/allurement/issues/13) in [team-abnormals/allurement](https://github.com/team-abnormals/allurement)
-3. 🗣 Commented on [#30](https://github.com/BlueDuckYT/The-Outer-End/issues/30) in [BlueDuckYT/The-Outer-End](https://github.com/BlueDuckYT/The-Outer-End)
-4. ❗️ Opened issue [#2204](https://github.com/dangrossman/daterangepicker/issues/2204) in [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker)
-5. 🗣 Commented on [#9](https://github.com/ashawe/Safana/issues/9) in [ashawe/Safana](https://github.com/ashawe/Safana)
+1. ❗️ Opened issue [#477](https://github.com/FabricMC/fabric-loader/issues/477) in [FabricMC/fabric-loader](https://github.com/FabricMC/fabric-loader)
+2. ❗️ Opened issue [#56](https://github.com/alfg/guildbit/issues/56) in [alfg/guildbit](https://github.com/alfg/guildbit)
+3. 🗣 Commented on [#13](https://github.com/team-abnormals/allurement/issues/13) in [team-abnormals/allurement](https://github.com/team-abnormals/allurement)
+4. 🗣 Commented on [#30](https://github.com/BlueDuckYT/The-Outer-End/issues/30) in [BlueDuckYT/The-Outer-End](https://github.com/BlueDuckYT/The-Outer-End)
+5. ❗️ Opened issue [#2204](https://github.com/dangrossman/daterangepicker/issues/2204) in [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker)
 <!--END_SECTION:activity-->
 
 </details>
