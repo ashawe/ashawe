@@ -1,6 +1,6 @@
 ### Hi there, I'm AshAwe - aka [Harsh Saglani][website] 👋
 
-[![Website](https://img.shields.io/website?label=harshsaglani.me&style=for-the-badge&url=http%3A%2F%2Fharshsaglani.me)](http://harshsaglani.me)
+[![Website](https://img.shields.io/website?label=harshsaglani.live&style=for-the-badge&url=https%3A%2F%2Fharshsaglani.live)](https://harshsaglani.live)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hsaglani?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fashawe&screen_name=hsaglani)
 
 ## I'm a Full-Time Open-Sourcerer & Aspiring Pentester!
@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="harshsaglani.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://harshsaglani.live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ashstudios | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="hsaglani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hsaglani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -69,7 +69,7 @@
 - [Today I Learned!?](https://dev.to/ashawe/today-i-learned-4l79)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ➡️ [more blog posts...](http://harshsaglani.me/blog) -->
+<!-- ➡️ [more blog posts...](https://harshsaglani.live/blog) -->
 
 ---
 
@@ -99,7 +99,7 @@
 
 </details>
 
-[website]: http://harshsaglani.me
+[website]: https://harshsaglani.live
 [twitter]: https://twitter.com/ashawe
 [youtube]: https://youtube.com/ashstudios
 [instagram]: https://instagram.com/beingawesomeharsh
