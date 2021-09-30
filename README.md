@@ -77,11 +77,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/ashawe/PersonalWebsite/issues/6) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
-2. ❗️ Opened issue [#5](https://github.com/ashawe/PersonalWebsite/issues/5) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
-3. ❗️ Opened issue [#4](https://github.com/ashawe/searchViaTerminal/issues/4) in [ashawe/searchViaTerminal](https://github.com/ashawe/searchViaTerminal)
-4. ❗️ Opened issue [#1](https://github.com/ashawe/BFS_Visualization/issues/1) in [ashawe/BFS_Visualization](https://github.com/ashawe/BFS_Visualization)
-5. ❗️ Opened issue [#12](https://github.com/ashawe/Safana/issues/12) in [ashawe/Safana](https://github.com/ashawe/Safana)
+1. ❗️ Opened issue [#1](https://github.com/ashawe/CarouselsAndProgressBars/issues/1) in [ashawe/CarouselsAndProgressBars](https://github.com/ashawe/CarouselsAndProgressBars)
+2. ❗️ Opened issue [#6](https://github.com/ashawe/PersonalWebsite/issues/6) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
+3. ❗️ Opened issue [#5](https://github.com/ashawe/PersonalWebsite/issues/5) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
+4. ❗️ Opened issue [#4](https://github.com/ashawe/searchViaTerminal/issues/4) in [ashawe/searchViaTerminal](https://github.com/ashawe/searchViaTerminal)
+5. ❗️ Opened issue [#1](https://github.com/ashawe/BFS_Visualization/issues/1) in [ashawe/BFS_Visualization](https://github.com/ashawe/BFS_Visualization)
 <!--END_SECTION:activity-->
 
 </details>
