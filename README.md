@@ -77,11 +77,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#322](https://github.com/ErdbeerbaerLP/DiscordIntegration-Forge/issues/322) in [ErdbeerbaerLP/DiscordIntegration-Forge](https://github.com/ErdbeerbaerLP/DiscordIntegration-Forge)
-2. ❗️ Opened issue [#477](https://github.com/FabricMC/fabric-loader/issues/477) in [FabricMC/fabric-loader](https://github.com/FabricMC/fabric-loader)
-3. ❗️ Opened issue [#56](https://github.com/alfg/guildbit/issues/56) in [alfg/guildbit](https://github.com/alfg/guildbit)
-4. 🗣 Commented on [#13](https://github.com/team-abnormals/allurement/issues/13) in [team-abnormals/allurement](https://github.com/team-abnormals/allurement)
-5. 🗣 Commented on [#30](https://github.com/BlueDuckYT/The-Outer-End/issues/30) in [BlueDuckYT/The-Outer-End](https://github.com/BlueDuckYT/The-Outer-End)
+1. ❗️ Opened issue [#6](https://github.com/ashawe/PersonalWebsite/issues/6) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
+2. ❗️ Opened issue [#5](https://github.com/ashawe/PersonalWebsite/issues/5) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
+3. ❗️ Opened issue [#4](https://github.com/ashawe/searchViaTerminal/issues/4) in [ashawe/searchViaTerminal](https://github.com/ashawe/searchViaTerminal)
+4. ❗️ Opened issue [#1](https://github.com/ashawe/BFS_Visualization/issues/1) in [ashawe/BFS_Visualization](https://github.com/ashawe/BFS_Visualization)
+5. ❗️ Opened issue [#12](https://github.com/ashawe/Safana/issues/12) in [ashawe/Safana](https://github.com/ashawe/Safana)
 <!--END_SECTION:activity-->
 
 </details>
