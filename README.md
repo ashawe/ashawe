@@ -77,11 +77,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ashawe/CarouselsAndProgressBars/issues/2) in [ashawe/CarouselsAndProgressBars](https://github.com/ashawe/CarouselsAndProgressBars)
-2. ❗️ Opened issue [#1](https://github.com/ashawe/CarouselsAndProgressBars/issues/1) in [ashawe/CarouselsAndProgressBars](https://github.com/ashawe/CarouselsAndProgressBars)
-3. ❗️ Opened issue [#6](https://github.com/ashawe/PersonalWebsite/issues/6) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
-4. ❗️ Opened issue [#5](https://github.com/ashawe/PersonalWebsite/issues/5) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
-5. ❗️ Opened issue [#4](https://github.com/ashawe/searchViaTerminal/issues/4) in [ashawe/searchViaTerminal](https://github.com/ashawe/searchViaTerminal)
+1. ❗️ Closed issue [#5](https://github.com/ashawe/PersonalWebsite/issues/5) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
+2. 🎉 Merged PR [#7](https://github.com/ashawe/PersonalWebsite/pull/7) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
+3. ❌ Closed PR [#3](https://github.com/ashawe/CarouselsAndProgressBars/pull/3) in [ashawe/CarouselsAndProgressBars](https://github.com/ashawe/CarouselsAndProgressBars)
+4. 🗣 Commented on [#3](https://github.com/ashawe/CarouselsAndProgressBars/issues/3) in [ashawe/CarouselsAndProgressBars](https://github.com/ashawe/CarouselsAndProgressBars)
+5. ❗️ Closed issue [#1](https://github.com/ashawe/CarouselsAndProgressBars/issues/1) in [ashawe/CarouselsAndProgressBars](https://github.com/ashawe/CarouselsAndProgressBars)
 <!--END_SECTION:activity-->
 
 </details>
