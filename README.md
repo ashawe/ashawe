@@ -77,11 +77,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/ashawe/PersonalWebsite/issues/9) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
-2. ❗️ Closed issue [#6](https://github.com/ashawe/PersonalWebsite/issues/6) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
-3. 🎉 Merged PR [#8](https://github.com/ashawe/PersonalWebsite/pull/8) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
-4. ❗️ Closed issue [#1](https://github.com/ashawe/BFS_Visualization/issues/1) in [ashawe/BFS_Visualization](https://github.com/ashawe/BFS_Visualization)
-5. 🎉 Merged PR [#2](https://github.com/ashawe/BFS_Visualization/pull/2) in [ashawe/BFS_Visualization](https://github.com/ashawe/BFS_Visualization)
+1. 🗣 Commented on [#12](https://github.com/ashawe/Safana/issues/12) in [ashawe/Safana](https://github.com/ashawe/Safana)
+2. 🗣 Commented on [#9](https://github.com/ashawe/PersonalWebsite/issues/9) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
+3. ❗️ Opened issue [#9](https://github.com/ashawe/PersonalWebsite/issues/9) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
+4. ❗️ Closed issue [#6](https://github.com/ashawe/PersonalWebsite/issues/6) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
+5. 🎉 Merged PR [#8](https://github.com/ashawe/PersonalWebsite/pull/8) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
 <!--END_SECTION:activity-->
 
 </details>
