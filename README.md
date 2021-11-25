@@ -77,11 +77,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/BloodHoundAD/BloodHound-Tools/issues/22) in [BloodHoundAD/BloodHound-Tools](https://github.com/BloodHoundAD/BloodHound-Tools)
-2. 🗣 Commented on [#9](https://github.com/ashawe/PersonalWebsite/issues/9) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
-3. ❗️ Closed issue [#9](https://github.com/ashawe/PersonalWebsite/issues/9) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
-4. 🎉 Merged PR [#10](https://github.com/ashawe/PersonalWebsite/pull/10) in [ashawe/PersonalWebsite](https://github.com/ashawe/PersonalWebsite)
-5. 🗣 Commented on [#12](https://github.com/ashawe/Safana/issues/12) in [ashawe/Safana](https://github.com/ashawe/Safana)
+1. 🗣 Commented on [#322](https://github.com/ErdbeerbaerLP/DiscordIntegration-Forge/issues/322) in [ErdbeerbaerLP/DiscordIntegration-Forge](https://github.com/ErdbeerbaerLP/DiscordIntegration-Forge)
+2. 🗣 Commented on [#2](https://github.com/ashawe/Diceee/issues/2) in [ashawe/Diceee](https://github.com/ashawe/Diceee)
+3. 💪 Opened PR [#84](https://github.com/0x90n/InfoSec-Black-Friday/pull/84) in [0x90n/InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday)
+4. ❗️ Opened issue [#83](https://github.com/0x90n/InfoSec-Black-Friday/issues/83) in [0x90n/InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday)
+5. 🗣 Commented on [#22](https://github.com/BloodHoundAD/BloodHound-Tools/issues/22) in [BloodHoundAD/BloodHound-Tools](https://github.com/BloodHoundAD/BloodHound-Tools)
 <!--END_SECTION:activity-->
 
 </details>
