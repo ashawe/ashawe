@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LakeTown SIMP - Minecraft 1.18.1 Day 1](https://www.youtube.com/watch?v=6KjRmDgDOQk)
 - [#HacktoberFest has a surprise | #UnboxingWithAsh Ep. 6 | ASH Studios](https://www.youtube.com/watch?v=D6voMTnp54M)
 - [HRX Grey &amp; Black Colourblocked Sneakers | Myntra Festive sale! | #UnboxingWithAsh Ep. 5](https://www.youtube.com/watch?v=C1DI5maqny0)
 - [Is FACEBOOK horizon the Oasis we&#39;ve been waiting for? | ASH Studios](https://www.youtube.com/watch?v=M1K_DvytEoU)
 - [Your own Linux Command? | #AshTeaches | ASH Studios](https://www.youtube.com/watch?v=D-EuJHS-DP8)
-- [Happy Friendship Day from ASH Studios - Tere jaisa yaar kaha](https://www.youtube.com/watch?v=k1KuIFNZwKY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
