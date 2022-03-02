@@ -77,11 +77,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/jasmaa/open-terpmatch/issues/10) in [jasmaa/open-terpmatch](https://github.com/jasmaa/open-terpmatch)
-2. 🗣 Commented on [#322](https://github.com/ErdbeerbaerLP/DiscordIntegration-Forge/issues/322) in [ErdbeerbaerLP/DiscordIntegration-Forge](https://github.com/ErdbeerbaerLP/DiscordIntegration-Forge)
-3. 🗣 Commented on [#2](https://github.com/ashawe/Diceee/issues/2) in [ashawe/Diceee](https://github.com/ashawe/Diceee)
-4. 💪 Opened PR [#84](https://github.com/0x90n/InfoSec-Black-Friday/pull/84) in [0x90n/InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday)
-5. ❗️ Opened issue [#83](https://github.com/0x90n/InfoSec-Black-Friday/issues/83) in [0x90n/InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday)
+1. 🎉 Merged PR [#2](https://github.com/ashawe/Restaurant-Ordering-System/pull/2) in [ashawe/Restaurant-Ordering-System](https://github.com/ashawe/Restaurant-Ordering-System)
+2. 💪 Opened PR [#2](https://github.com/ashawe/Restaurant-Ordering-System/pull/2) in [ashawe/Restaurant-Ordering-System](https://github.com/ashawe/Restaurant-Ordering-System)
+3. 🎉 Merged PR [#1](https://github.com/ashawe/Restaurant-Ordering-System/pull/1) in [ashawe/Restaurant-Ordering-System](https://github.com/ashawe/Restaurant-Ordering-System)
+4. 💪 Opened PR [#1](https://github.com/ashawe/Restaurant-Ordering-System/pull/1) in [ashawe/Restaurant-Ordering-System](https://github.com/ashawe/Restaurant-Ordering-System)
+5. ❗️ Opened issue [#10](https://github.com/jasmaa/open-terpmatch/issues/10) in [jasmaa/open-terpmatch](https://github.com/jasmaa/open-terpmatch)
 <!--END_SECTION:activity-->
 
 </details>
