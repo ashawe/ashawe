@@ -5,10 +5,9 @@
 
 ## I'm a Full-Time Open-Sourcerer & Aspiring Pentester!
 
-- 🔭 I’m currently working on [my Personal Website][website]!
-- 🌱 I’m currently learning [React][react-repo]!
+- 🔭 I’m currently working on getting my [OSCP](https://www.offsec.com/courses/pen-200/)!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Read 12 books, Get OSCP certification, Learn lockpicking
 - ⚡ Fun fact: I love to draw, play guitar and badminton
 
 ### Spotify Playing 🎧
@@ -48,7 +47,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [LakeTown SIMP - Minecraft 1.18.1 Day 1](https://www.youtube.com/watch?v=6KjRmDgDOQk)
 - [#HacktoberFest has a surprise | #UnboxingWithAsh Ep. 6 | ASH Studios](https://www.youtube.com/watch?v=D6voMTnp54M)
 - [HRX Grey &amp; Black Colourblocked Sneakers | Myntra Festive sale! | #UnboxingWithAsh Ep. 5](https://www.youtube.com/watch?v=C1DI5maqny0)
 - [Is FACEBOOK horizon the Oasis we&#39;ve been waiting for? | ASH Studios](https://www.youtube.com/watch?v=M1K_DvytEoU)
