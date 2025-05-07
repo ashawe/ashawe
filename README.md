@@ -5,9 +5,9 @@
 
 ## I'm a Full-Time Open-Sourcerer & Aspiring Pentester!
 
-- 🔭 I’m currently working on getting my [OSCP](https://www.offsec.com/courses/pen-200/)!
+- 🔭 I’m currently working on getting my [OSWP](https://www.offsec.com/courses/pen-210/)!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Read 12 books, Get OSCP certification, Learn lockpicking
+- 🥅 2025 Goals: Read 12 books, Learn lockpicking
 - ⚡ Fun fact: I love to draw, play guitar and badminton
 
 ### Spotify Playing 🎧
