@@ -67,7 +67,7 @@
 - [Today I Learned!?](https://dev.to/ashawe/today-i-learned-4l79)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ➡️ [more blog posts...](https://harshsaglani.live/blog) -->
+<!-- ➡️ [more blog posts...](https://harshsaglani.com/blog) -->
 
 ---
 
@@ -97,7 +97,7 @@
 
 </details>
 
-[website]: https://harshsaglani.live
+[website]: https://harshsaglani.com
 [twitter]: https://twitter.com/ashawe
 [youtube]: https://youtube.com/ashstudios
 [instagram]: https://instagram.com/beingawesomeharsh
